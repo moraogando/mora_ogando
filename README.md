@@ -1,7 +1,7 @@
 # Mora Ogando
 _Postdoctoral Researcher, UC Berkeley_
 
-![profile](assets/profile.gif)
+![profile](profile.gif)
 
 Welcome to my academic webpage. I study cortical microcircuits, recurrent inhibition, and sensory representations using two-photon holographic optogenetics and Neuropixels recordings.  
 
