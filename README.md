@@ -1,4 +1,3 @@
-# moraogando.github.io
 # Mora Ogando
 _Postdoctoral Researcher, UC Berkeley_
 
