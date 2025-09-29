@@ -20,7 +20,7 @@ My research examines how brain circuits dynamically support flexible computation
 3. **Learned sensory-motor codes** guiding decision-making.  
 
 - **Ph.D. (Buenos Aires):** Showed how adult neurogenesis, neuromodulation, and inhibitory microcircuits enable flexible hippocampal input processing.  
-- **Postdoc (UC Berkeley):** Expanded all-optical read–write physiology to manipulate and record thousands of neurons simultaneously, enabling causal studies of feature completion vs suppression and revealing new inhibitory motifs that sharpen cortical accuracy.  
+- **Postdoc (UC Berkeley):** Expanded all-optical read–write physiology to recreate sensory codes with high fidelity at scale: Recording thousands of neurons simultaneously and perturbing hundreds of functionally defined neurons per second. Using this powerfull tools, I causally dissect cortical computations including feature completion vs suppression, perception and decision-making, with a focus on functionally selective inhibitory circuits.  
 
 ---
 
