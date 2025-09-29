@@ -33,7 +33,7 @@ My research examines how brain circuits dynamically support flexible computation
 ## 📚 Publications
 1. Shin, H., **Ogando, M. B.** et al. (2025). *Recurrent pattern completion drives the neocortical representation of sensory inference.* **Nature Neuroscience**, 1–11.  
 2. Giusti, S. A., **Ogando, M. B.** et al. (2024). *A brain-enriched circular RNA controls excitatory neurotransmission and restricts sensitivity to aversive stimuli.* **Science Advances**, 10, eadj8769.  
-3. Sridharan, S.*, Gajowa, M.*, **Ogando, M. B.***, Jagadisan, U.* et al. (2022). *High-performance microbial opsins for spatially and temporally precise perturbations of large neuronal networks.* **Neuron**, 110(7), 1139–1155.e6.  
+3. Sridharan, S.*, Gajowa, M.*, **Ogando, M. B.** *, Jagadisan, U.* et al. (2022). *High-performance microbial opsins for spatially and temporally precise perturbations of large neuronal networks.* **Neuron**, 110(7), 1139–1155.e6.  
 4. **Ogando, M. B.*** et al. (2021). *Cholinergic modulation of dentate gyrus processing through dynamic reconfiguration of inhibitory circuits.* **Cell Reports**, 36.  
 5. Tomasella, E.,[…], **Ogando, M. B.** et al. (2018). *Deletion of dopamine D2 receptors from parvalbumin interneurons in mouse causes schizophrenia-like phenotypes.* **PNAS**, 115(13), 3476–3481.  
 6. Pardi, M. B., **Ogando, M. B.**, Schinder, A. F., & Marin-Burgin, A. (2015). *Differential inhibition onto developing and mature granule cells generates high-frequency filters with variable gain.* **eLife**, 4, e08764.  
