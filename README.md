@@ -41,8 +41,8 @@ My research examines how brain circuits dynamically support flexible computation
 ---
 
 ### Preprints
-- **Ogando, M. B.** et al. (2025). *Feature-specific inhibitory connectivity augments the accuracy of cortical representations.* **bioRxiv**. Under revision at *Nature*.  
-- Abdeladim, L.*, Shin, H.*, Jagadisan, U. K.*, **Ogando, M. B.**, & Adesnik, H. (2023). *Probing inter-areal computations with a cellular-resolution two-photon holographic mesoscope.* **bioRxiv**. Under revision at *Nature Neuroscience*.  
+- **Ogando, M. B.** et al. (2025). *Feature-specific inhibitory connectivity augments the accuracy of cortical representations.* **bioRxiv**. 
+- Abdeladim, L.*, Shin, H.*, Jagadisan, U. K.*, **Ogando, M. B.**, & Adesnik, H. (2023). *Probing inter-areal computations with a cellular-resolution two-photon holographic mesoscope.* **bioRxiv**.
 ---
 
 ## 🎤 Talks & Presentations
