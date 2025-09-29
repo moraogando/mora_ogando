@@ -7,11 +7,6 @@ Welcome to my academic webpage. I study cortical microcircuits, recurrent inhibi
 
 ---
 
-## 📄 Curriculum Vitae
-[Download CV (PDF)](cv.pdf)
-
----
-
 ## 🔬 Research Overview
 My research examines how brain circuits dynamically support flexible computations that give rise to adaptive behaviors and cognition at three levels:  
 1. **Synaptic mechanisms** underlying input processing and plasticity.  
