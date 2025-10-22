@@ -6,8 +6,7 @@ Welcome to my academic webpage. I study cortical microcircuits, recurrent inhibi
 *Combining two-photon calcium imaging to record neuronal activity, and two-photon holographic photostimulation to control specific subsets of neurons, we can WRITE neural codes into the brain to understand cognition.*
 
 ---
-![CaIm](CaIm.gif)
-* Large scale two-photon calcium imaging allows us to read activity from up to 6000 neurons simultaneously *
+<img src="CaIm.gif" width="400">
 ---
 ## 🔬 Research Overview
 My research examines how brain circuits dynamically support flexible computations that give rise to adaptive behaviors and cognition at three levels:  
