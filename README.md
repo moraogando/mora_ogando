@@ -3,10 +3,12 @@ _Postdoctoral Researcher, UC Berkeley_
 Welcome to my academic webpage. I study cortical microcircuits, recurrent inhibition, and sensory representations using two-photon holographic optogenetics and Neuropixels recordings.  
 ![profile](profile.gif)
 
-*Combining two-photon calcium imaging to record neuronal activity, and two-photon holographic photostimulation to control specific subsets of neurons, we WRITE neural codes into the brain to understand cognition.*
+*Combining two-photon calcium imaging to record neuronal activity, and two-photon holographic photostimulation to control specific subsets of neurons, we can WRITE neural codes into the brain to understand cognition.*
 
 ---
-
+![CaIm](CaIm.gif)
+* Large scale two-photon calcium imaging allows us to read activity from up to 6000 neurons simultaneously *
+---
 ## 🔬 Research Overview
 My research examines how brain circuits dynamically support flexible computations that give rise to adaptive behaviors and cognition at three levels:  
 1. **Synaptic mechanisms** underlying input processing and plasticity.  
