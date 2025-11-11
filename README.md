@@ -2,7 +2,8 @@
 _Postdoctoral Researcher, UC Berkeley_
 
 I study cortical microcircuits, sensory computations and sensorimotor learning using two-photon holographic optogenetics.
-![profile](profile.gif)
+
+<img src="profile.gif" width="1000">
 
 *Combining two-photon calcium imaging to record neuronal activity, and two-photon holographic photostimulation to control specific subsets of neurons, we can WRITE specific neural codes into the brain to understand cognition.*
 
