@@ -9,6 +9,10 @@ Welcome to my academic webpage. I study cortical microcircuits, recurrent inhibi
 <img src="CaIm.gif" width="1000">
 Large scale two-photon calcium imaging allows us to read activity from up to 6000 neurons simultaneously
 
+<details>
+  <summary><h2>📄 CV</h2></summary>
+
+---
 ---
 ## 🔬 Research Overview
 My research examines how brain circuits dynamically support flexible computations that give rise to adaptive behaviors and cognition at three levels:  
@@ -55,3 +59,4 @@ My research examines how brain circuits dynamically support flexible computation
 ## 📫 Links
 - [Google Scholar](https://scholar.google.com/citations?user=0TpnM0cAAAAJ&hl=es)  
 - [ORCID](https://orcid.org/0000-0002-1453-2628)  
+</details>
