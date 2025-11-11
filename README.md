@@ -1,6 +1,7 @@
 # Mora Ogando
 _Postdoctoral Researcher, UC Berkeley_
-Welcome to my academic webpage. I study cortical microcircuits, recurrent inhibition, and sensory representations using two-photon holographic optogenetics and Neuropixels recordings.  
+
+I study cortical microcircuits, sensory computations and sensorimotor learning using two-photon holographic optogenetics.
 ![profile](profile.gif)
 
 *Combining two-photon calcium imaging to record neuronal activity, and two-photon holographic photostimulation to control specific subsets of neurons, we can WRITE neural codes into the brain to understand cognition.*
