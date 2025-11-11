@@ -8,7 +8,7 @@ I study cortical microcircuits, sensory computations and sensorimotor learning u
 *Combining two-photon calcium imaging to record neuronal activity, and two-photon holographic photostimulation to control specific subsets of neurons, we can WRITE specific neural codes into the brain to understand cognition.*
 
 ---
-<img src="7planeAO1.gif" width="1000">
+<img src="AO7planes1.gif" width="1000">
 Using 3D-SHOT and large scale multiplane recordings, we can simultanously activate specific subsets of individual neurons distributed throughout a 3D volume, while monitoring network responses from up to 6000 individual neurons in the intact brain. 
 
 Using this powerful technology, we aim to uncover what aspects of neuronal activity are necessary and sufficient for perception, decision-making and learning.
